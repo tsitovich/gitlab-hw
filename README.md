@@ -96,8 +96,16 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_6.png)
+`
 
+![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_6.png)
+
+![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_7.png)
+
+![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_8.png)
+
+![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_9.png)
 ### Задание 4
 
 `Приведите ответ в свободной форме........`
