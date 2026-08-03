@@ -46,6 +46,13 @@
 ![](https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_2.png)
 ![](https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_3.png)`
 
+`При необходимости прикрепитe сюда скриншоты
+![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_1.png)
+![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_2.png)
+![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_3.png)
+`
+
+
 ---
 
 ### Задание 2
