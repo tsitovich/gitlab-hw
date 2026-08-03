@@ -70,6 +70,9 @@
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 2](ссылка на скриншот 2)`
 
+![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_4.png)
+
+![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_5.png)
 
 ---
 
