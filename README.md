@@ -127,3 +127,9 @@
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота](ссылка на скриншот)`
+
+![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_10.png)
+
+![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_11.png)
+
+![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_12.png)
