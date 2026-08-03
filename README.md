@@ -42,12 +42,9 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![](https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_1.png)`
+![](https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_1.png)
 ![](https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_2.png)
-![](https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_3.png)
-https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_1.png
-https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_2.png
-https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_3.png
+![](https://github.com/tsitovich/gitlab-hw/blob/devops-branch/Screenshot_3.png)`
 
 ---
 
