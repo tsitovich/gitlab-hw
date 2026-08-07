@@ -46,7 +46,7 @@
 
 
 
-![Название скриншота 1](ссылка на скриншот 1)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/gitlab-branch/Screenshot_1.png)
 
 ![Название скриншота 1](ссылка на скриншот 1)
 
@@ -68,6 +68,22 @@
 ```
 Поле для вставки кода...
 ....
+stages:
+  - test
+  - build
+
+test_job:
+  stage: test
+  image: alpine:latest
+  script:
+    - echo "Hello from test stage!"
+
+build_job:
+  stage: build
+  image: alpine:latest
+  script:
+    - echo "Hello from build stage!"
+
 ....
 ....
 ....
@@ -76,6 +92,9 @@
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 2](ссылка на скриншот 2)`
 
+![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/gitlab-branch/Screenshot_2.png)
+
+![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/gitlab-branch/Screenshot_3.png)
 
 ---
 
@@ -94,6 +113,28 @@
 Поле для вставки кода...
 ....
 ....
+stages:
+  - test
+  - build
+
+test_job:
+  stage: test
+  image: alpine:latest
+  rules:
+    - changes:
+        - "**/*.go"
+  script:
+    - echo "Running unit tests for Go files..."
+    - echo "All tests passed!"
+
+build_job:
+  stage: build
+  image: alpine:latest
+  needs: []
+  script:
+    - echo "Compiling the application immediately..."
+    - echo "Build completed successfully!"
+
 ....
 ....
 ```
