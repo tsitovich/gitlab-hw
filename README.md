@@ -91,8 +91,17 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/zabbix1-branch/img/Screenshot_2.png)`
 
+![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/zabbix1-branch/img/Screenshot_3.png)
+
+![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/zabbix1-branch/img/Screenshot_4.png)
+
+![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/zabbix1-branch/img/Screenshot_5.png)
+
+![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/zabbix1-branch/img/Screenshot_6.png)
+
+![Название скриншота 2](ссылка на скриншот 2)
 
 ---
 
