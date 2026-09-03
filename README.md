@@ -90,8 +90,7 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/zabbix1-branch/img/Screenshot_2.png)`
+![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/zabbix1-branch/img/Screenshot_2.png)
 
 ![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/zabbix1-branch/img/Screenshot_3.png)
 
