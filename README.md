@@ -145,6 +145,7 @@
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/zabbix2-branch/img/Screenshot_5-1.png)
+
 `
 
 
@@ -181,6 +182,7 @@ UserParameter=custom.script[*],/etc/zabbix/scripts/my_info.sh \$1
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/zabbix2-branch/img/Screenshot_6-1.png)
+
 `
 
 
@@ -229,6 +231,7 @@ UserParameter=custom.python[*],python3 /etc/zabbix/scripts/zabbix_handler.py "\$
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/zabbix2-branch/img/Screenshot_7-1.png)
+
 `
 
 ### Задание 8
@@ -256,6 +259,7 @@ UserParameter=custom.python[*],python3 /etc/zabbix/scripts/zabbix_handler.py "\$
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/zabbix2-branch/img/Screenshot_8-1.png)
 ![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/zabbix2-branch/img/Screenshot_8-2.png)
+
 `
 
 
