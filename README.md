@@ -120,6 +120,7 @@
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/zabbix2-branch/img/Screenshot_4-1.png)
+
 `
 
 
