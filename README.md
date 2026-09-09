@@ -42,7 +42,10 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/zabbix2-branch/img/Screenshot_1-1.png)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/zabbix2-branch/img/Screenshot_1-2.png)
+
+`
 
 
 ---
@@ -244,7 +247,9 @@ UserParameter=custom.python[*],python3 /etc/zabbix/scripts/zabbix_handler.py "\$
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![Название скриншота 1](ссылка на скриншот 1)
+![Название скриншота 1](ссылка на скриншот 1)
+`
 
 
 ### Задание 9
