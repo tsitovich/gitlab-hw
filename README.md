@@ -96,6 +96,7 @@
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/zabbix2-branch/img/Screenshot_3-1.png)
+
 `
 
 ### Задание 4
