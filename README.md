@@ -41,9 +41,8 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/prometheus_1/img/Screenshot_1.png)
-`
+
 
 
 ---
