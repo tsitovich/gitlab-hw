@@ -65,8 +65,8 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/prometheus_2/img/Screenshot_2-1.png)
+![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/prometheus_2/img/Screenshot_2-2.png)
 
 
 ---
@@ -90,8 +90,8 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/prometheus_2/img/Screenshot_3-1.png)
+![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/prometheus_2/img/Screenshot_3-2.png)
 
 ### Задание 4
 
@@ -112,5 +112,5 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+
+![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/prometheus_2/img/Screenshot_4.png)
