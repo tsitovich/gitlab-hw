@@ -42,7 +42,7 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/prometheus_2/img/Screenshot_1.png)`
 
 
 ---
