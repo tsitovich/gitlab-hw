@@ -36,14 +36,15 @@
 ```
 Поле для вставки кода...
 ....
-....
+https://github.com/tsitovich/gitlab-hw/blob/keepalived/img/hsrp_advanced.pkt
 ....
 ....
 ```
 
-![Название скриншота 1](ссылка на скриншот 1)
-![Название скриншота 1](ссылка на скриншот 1)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/keepalived/img/Screenshot_1-1.png)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/keepalived/img/Screenshot_1-2.png)
 
+https://github.com/tsitovich/gitlab-hw/blob/keepalived/img/hsrp_advanced.pkt
 
 ---
 
@@ -65,12 +66,11 @@
 ....
 ....
 ```
-
-![Название скриншота 1](ссылка на скриншот 1)
-![Название скриншота 1](ссылка на скриншот 1)
-![Название скриншота 1](ссылка на скриншот 1)
-![Название скриншота 1](ссылка на скриншот 1)
-![Название скриншота 2](ссылка на скриншот 2)
+![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/keepalived/img/Screenshot_2.png)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/keepalived/img/Screenshot_2-1.png)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/keepalived/img/Screenshot_2-2.png)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/keepalived/img/Screenshot_2-3.png)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/keepalived/img/Screenshot_2-4.png)
 
 
 ---
