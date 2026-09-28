@@ -43,9 +43,9 @@
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 1](ссылка на скриншот 1)`
-![Название скриншота 1](ссылка на скриншот 1)
-![Название скриншота 1](ссылка на скриншот 1)
-![Название скриншота 1](ссылка на скриншот 1)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/haproxy/img/Screenshot_1-1.png)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/haproxy/img/Screenshot_1-2.png)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/haproxy/img/Screenshot_1-3.png)
 
 ---
 
@@ -70,10 +70,10 @@
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 2](ссылка на скриншот 2)`
-![Название скриншота 1](ссылка на скриншот 1)
-![Название скриншота 1](ссылка на скриншот 1)
-![Название скриншота 1](ссылка на скриншот 1)
-![Название скриншота 1](ссылка на скриншот 1)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/haproxy/img/Screenshot_2-1.png)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/haproxy/img/Screenshot_2-2.png)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/haproxy/img/Screenshot_2-3.png)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/haproxy/img/Screenshot_2-4.png)
 
 
 ---
