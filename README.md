@@ -44,12 +44,12 @@
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 1](ссылка на скриншот 1)`
 
-![Название скриншота 1]()
-![Название скриншота 1]()
-![Название скриншота 1]()
-![Название скриншота 1]()
-![Название скриншота 1]()
-![Название скриншота 1]()
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/cloud_resiliency/img/Screenshot_1-1.png)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/cloud_resiliency/img/Screenshot_1-2.png)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/cloud_resiliency/img/Screenshot_1-3.png)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/cloud_resiliency/img/Screenshot_1-4.png)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/cloud_resiliency/img/Screenshot_1-5.png)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/cloud_resiliency/img/Screenshot_1-6.png)
 
 ---
 
