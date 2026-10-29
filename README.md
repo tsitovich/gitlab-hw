@@ -37,6 +37,7 @@
 
 ### Задание 2
 
+![alt text](https://github.com/tsitovich/gitlab-hw/blob/redis/img/Screenshot_2.png)
 
 `![](https://github.com/tsitovich/gitlab-hw/blob/redis/img/Screenshot_2.png)`
 
