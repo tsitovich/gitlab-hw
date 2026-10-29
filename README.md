@@ -38,7 +38,7 @@
 ### Задание 2
 
 
-`!(https://github.com/tsitovich/gitlab-hw/blob/redis/img/Screenshot_2.png)`
+`![](https://github.com/tsitovich/gitlab-hw/blob/redis/img/Screenshot_2.png)`
 
 
 ---
