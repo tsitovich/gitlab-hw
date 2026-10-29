@@ -39,20 +39,18 @@
 
 ![alt text](https://github.com/tsitovich/gitlab-hw/blob/redis/img/Screenshot_2.png)
 
-`![](https://github.com/tsitovich/gitlab-hw/blob/redis/img/Screenshot_2.png)`
-
 
 ---
 
 ### Задание 3
 
 
-`https://github.com/tsitovich/gitlab-hw/blob/redis/img/Screenshot_3.png`
+![alt text](https://github.com/tsitovich/gitlab-hw/blob/redis/img/Screenshot_3.png)
 
 ### Задание 4
 
 
-`https://github.com/tsitovich/gitlab-hw/blob/redis/img/Screenshot_4.png`
+![alt text](https://github.com/tsitovich/gitlab-hw/blob/redis/img/Screenshot_4.png)
 
 ---
 
@@ -60,4 +58,4 @@
 ### Задание 5
 
 
-`https://github.com/tsitovich/gitlab-hw/blob/redis/img/Screenshot_5.png`
+![screen](https://github.com/tsitovich/gitlab-hw/blob/redis/img/Screenshot_5.png)
