@@ -25,27 +25,27 @@
 ### Задание 1
 
 
-![Название скриншота 1](ссылка на скриншот 1)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/elk/img/Screenshot_1.png)
 
 
 ---
 
 ### Задание 2
 
-![Название скриншота 2](ссылка на скриншот 2)
+![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/elk/img/Screenshot_2.png)
 
 ---
 
 ### Задание 3
 
-![Название скриншота](ссылка на скриншот)
+![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/elk/img/Screenshot_3.png)
 
 ### Задание 4
 
-![Название скриншота](ссылка на скриншот)
+![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/elk/img/Screenshot_4.png)
 
 ### Задание 5
 
+отправляется лог веб-сервера Apache HTTP Server (Httpd)
 
-
-![Название скриншота](ссылка на скриншот)
+![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/elk/img/Screenshot_5.png)
