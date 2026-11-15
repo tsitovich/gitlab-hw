@@ -32,6 +32,7 @@
 ### Задание 2
 
 ![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/rabbitmq/img/Screenshot_2-1.png)
+
 ![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/rabbitmq/img/Screenshot_2-2.png)
 
 ---
@@ -39,10 +40,15 @@
 ### Задание 3
 
 ![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/rabbitmq/img/Screenshot_3-1.png)
+
 ![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/rabbitmq/img/Screenshot_3-2.png)
+
 ![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/rabbitmq/img/Screenshot_3-3.png)
+
 ![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/rabbitmq/img/Screenshot_3-4.png)
+
 ![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/rabbitmq/img/Screenshot_3-5.png)
+
 ![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/rabbitmq/img/Screenshot_3-6.png)
 
 
