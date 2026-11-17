@@ -24,16 +24,16 @@
 
 ### Задание 1
 
-![Название скриншота 1](ссылка на скриншот 1)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/db_sql/img/Screenshot_1.png)
 
 
 ---
 
 ### Задание 2
 
-![Название скриншота 2](ссылка на скриншот 2)
+![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/db_sql/img/Screenshot_2-1.png)
 
-![Название скриншота 1](ссылка на скриншот 1)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/db_sql/img/Screenshot_2-2.png)
 
 
 ---
