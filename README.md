@@ -27,7 +27,7 @@ HAVING COUNT(cu.customer_id) > 300;
 
 ```
 
-![Название скриншота 1](ссылка на скриншот 1)
+![Название скриншота 1](https://github.com/tsitovich/gitlab-hw/blob/sql_2/img/Screenshot_1.png)
 
 
 ---
@@ -48,7 +48,7 @@ WHERE length > (
 ```
 
 
-![Название скриншота 2](ссылка на скриншот 2)
+![Название скриншота 2](https://github.com/tsitovich/gitlab-hw/blob/sql_2/img/Screenshot_2.png)
 
 
 ---
@@ -71,7 +71,7 @@ LIMIT 1;
 ```
 
 
-![Название скриншота](ссылка на скриншот)
+![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/sql_2/img/Screenshot_3.png)
 
 ### Задание 4
 
@@ -95,7 +95,7 @@ GROUP BY s.staff_id, s.first_name, s.last_name;
 ```
 
 
-![Название скриншота](ссылка на скриншот)
+![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/sql_2/img/Screenshot_4.png)
 
 
 ### Задание 5
@@ -116,5 +116,5 @@ HAVING COUNT(r.rental_id) = 0;
 ```
 
 
-![Название скриншота](ссылка на скриншот) 
+![Название скриншота](https://github.com/tsitovich/gitlab-hw/blob/sql_2/img/Screenshot_5.png) 
 
